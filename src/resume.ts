@@ -203,7 +203,7 @@ export const education = {
 export const featuredProject = {
   name: "Yantrika Agent Patterns",
   description:
-    "Six working LangGraph patterns — FastAPI + LangGraph backends, Next.js frontends — each with a real server-side interrupt() that genuinely pauses for a human, not a simulated one. Covers staged autonomy, hard invariants, weighted reasoning, policy-as-code, and multi-site arbitration.",
+    "Six working LangGraph patterns for the manufacturing ERP domain — FastAPI + LangGraph backends, Next.js frontends — each with a real server-side interrupt() that genuinely pauses for a human, not a simulated one. Covers staged autonomy, hard invariants, weighted reasoning, policy-as-code, and multi-site arbitration across PO acknowledgment, material allocation, and cross-plant arbitration scenarios.",
   url: "https://github.com/balajihambeere/yantrika-agent-patterns",
   liveUrl: "https://balajihambeere.github.io/yantrika-agent-patterns/",
 };
